@@ -44,15 +44,19 @@
             <div class="col">
             <table class="table  table-borderless">
                 <tr>
-                    <td>Name:</td>
+                    <td>Faculty Name:</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>Roll No.</td>
+                    <td>Department Name</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>Admission No.</td>
+                    <td>Address</td>
+                    <td><input type="text" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td>Education Qualification</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
@@ -61,7 +65,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><button class="btn btn-outline-success">Login</button></td>
+                    <td><button class="btn btn-outline-dark">Submit</button></td>
                 </tr>
             </table>
             </div>

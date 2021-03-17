@@ -42,23 +42,20 @@
         <div class="row">
             <div class="col"></div>
             <div class="col">
-            <table class="table  table-borderless">
+            <table class="table table-borderless">
                 <tr>
                     <td>Name:</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>Roll No.</td>
+                    <td>Message</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
-                    <td>Admission No.</td>
+                    <td>Phone No.</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
-                <tr>
-                    <td>College</td>
-                    <td><input type="text" class="form-control"></td>
-                </tr>
+                
                 <tr>
                     <td></td>
                     <td><button class="btn btn-outline-success">Login</button></td>
